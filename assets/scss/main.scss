@@ -1,0 +1,36 @@
+html, body {
+  background: #FAF9F7;
+  font-family: "PlusJakartaSans", sans, sans-serif;
+}
+
+.border-dashed {
+  background-image: url('/images/elements/Border-Bottom.svg');
+  background-repeat: repeat-x;
+  background-position: bottom;
+}
+
+/* ANIMATIONS */
+
+/* Transition */
+
+.slide-fade-leave-active,
+.slide-fade-enter-active {
+  transition: all 0.3s ease-out;
+}
+
+.slide-fade-enter-from,
+.slide-fade-leave-to {
+  right: -30%;
+  opacity: 0;
+}
+
+.slide-fade-long-leave-active,
+.slide-fade-long-enter-active {
+  transition: all 0.6s ease-out;
+}
+
+.slide-fade-long-enter-from,
+.slide-fade-long-leave-to {
+  right: -100%;
+  opacity: 0;
+}

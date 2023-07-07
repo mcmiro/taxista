@@ -1,0 +1,318 @@
+{
+  "navigation": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "services": "Services",
+    "location": "Location of parking",
+    "faq": "Frequently asked questions",
+    "button": "Book your parking spot"
+  },
+  "footer": {
+    "copyright": "All rights reserved",
+    "navSectionHeadline": "Quicklinks",
+    "navSectionHome": "Home",
+    "navSectionPricing": "Pricing",
+    "navSectionBooking": "Online booking",
+    "navSectionServices": "Services",
+    "navSectionLocation": "Location",
+    "supportSectionHeadline": "Legal & Support",
+    "supportSectionFaq": "Frequently asked questions",
+    "supportSectionTerms": "Terms of use",
+    "supportSectionContact": "Contact",
+    "supportSectionLocation": "Open the location in Google Maps",
+    "supportSectionNewsletter": "Newsletter"
+  },
+  "header": {
+  "headline": "Belgrade Airport Parking.",
+  "iconOne": "Cheaper than taxis",
+  "iconTwo": "Easy booking",
+  "paragraph": "Reserve a private parking spot at Nikola Tesla Airport with just two clicks, and park your vehicle from",
+  "paragraphSpan": "250rsd per day",
+  "bookingHeadline": "Book your parking spot.",
+  "bookingPlaceholderOne": "Date from:",
+  "bookingPlaceholderTwo": "Date to:",
+  "bookingButton": "Book your parking spot",
+  "bookingButtonDay": "day",
+  "bookingButtonDays": "days",
+  "bookingButtonIcon" : "Free transfer from parking to airport"
+},
+"sectionOne": {
+  "headline": "Airport Parking: simple and from",
+  "headlineSpan": "250 RSD per day",
+  "paragraphOne": "Parking at Nikola Tesla Airport doesn't have to be complicated or expensive. In fact, for not more than",
+  "paragraphSpan": "700 RSD per day",
+  "paragraphTwo": "(the more days, the cheaper it gets), you can park your car at the Belgrade Airport."
+},  
+"sectionTwo": {
+  "headlineOne": "Belgrade Airport Parking: all",
+  "headlineSpan": "advantages",
+  "headlineTwo": "at one place",
+  "iconOneHeadline": "Free transfer",
+  "iconOneParagraph": "The parking fee includes a free transfer to and from the airport. Once you park with us, all you have to do is enjoy your trip. We'll take care of the rest.",
+  "iconTwoHeadline": "Cheaper than taxis",
+  "iconTwoParagraph": "Our Belgrade Airport parking is even cheaper than taxis. On average, for the price of a taxi in both directions, you can park with us for about 10 days.",
+  "iconThreeHeadline": "Easy reservation",
+  "iconThreeLink": "Reserving parking at the airport",
+  "iconThreeParagraph": "with us is very easy. Choose a date, fill in your details and that's it. Your parking spot is reserved."
+},
+"sectionThree": {
+  "headlineOne": "How does",
+  "headlineSpan": "airport parking work",
+  "paragraph": "With Carport, the whole process is simple. We've made sure that everything from reserving parking to transfer is easy. If you have any questions, our team is always available to help you.",
+  "stepOneLink": "Book airport parking online.",
+  "stepOne": "You will receive an e-mail from us with detailed information. Payment will be made on the parking in cash or by card.",
+  "stepTwo": "After reserving, before the day of your arrival, our team will contact you for all details related to airport parking.",
+  "stepThree": "Park your car on the day of the reservation. After that, we will take you to the airport and wait for you on the day of your return. Completely free of charge.",
+  "button": "Book your parking spot"
+} ,
+"sectionReviews": {
+  "headlineOne": "Airport Parking:",
+  "headlineTwo": "Experiences of our customers.",
+  "rated": "Rated"
+},
+"sectionSix": {
+  "headline": "Travel in peace. Your car",
+  "headlineSpan": "is safe",
+  "iconOneHeadline": "Video surveillance",
+  "iconOneParagraph": "Our parking is under video surveillance 24/7. As long as it is on our parking lot, your vehicle is safe.",
+  "iconTwoHeadline": "Availability 0-24h",
+  "iconTwoParagraph": "Our partners at the parking lot are available 0-24h. In case of any questions while you're on your trip, our team will gladly help you.",
+  "iconThreeHeadline": "Protected parking",
+  "iconThreeParagraph": "Your vehicle is safe with us. Our parking lot is enclosed and well-lit, and our partners at the parking lot are always on site."
+},
+"sectionSeven": {
+  "headline": "Airport parking price:",
+  "headlineSpan": "the more days, the cheaper",
+  "paragraph": "The price for Belgrade airport parking for the first day is 700 RSD. Every subsequent day, the day becomes cheaper.",
+  "tableDays": "Days",
+  "tablePrice": "Price in total",
+  "tablePerDay": "Price per day",
+  "tableFootnote": "*Sample prices for up to 10 days. For longer periods, see the price list.",
+  "button": "Airport parking price list"
+},
+"sectionEight": {
+  "headline": "Don't miss out on promotions and other perks.",
+  "paragraph": "Subscribe to our newsletter and stay informed about all promotions, contests and other perks for registered clients.",
+  "formLabel": "E-mail address",
+  "formPlaceholder": "Enter your e-mail address",
+  "formLegal": "I want to receive notifications about the latest products, discounts and promotions (unsubscribe possible at any time).",
+  "formButton": " Sign up for the newsletter"
+},
+"sectionNine": {
+  "headline": "Frequently asked",
+  "headlineSpan": "questions",
+  "faqOneTitle": "Where is the airport parking located?",
+  "faqOneAnswer": "Our parking is located just three minutes drive from the airport, in Surčin. More information, as well as a direct link to Google Maps, can be found",
+  "faqLink": "here",
+  "faqTwoTitle": "Until what time on the day of the reservation do I need to park my vehicle?",
+  "faqTwoAnswer": "When you make a reservation, the reservation is valid for the entire day. There is no specific parking time, as this depends on your flight time, etc. After making a reservation, our team will contact you before the day of parking. We will then agree on the parking and transfer time.",
+  "faqThreeTitle": "Can I change or cancel my parking spot reservation?",
+  "faqThreeAnswer": "Yes, you can change or cancel your parking spot reservation, but please do so at least 24 hours before the start of the reserved time.",
+  "faqFourTitle": "Is a parking spot reservation mandatory?",
+  "faqFourAnswer": "Yes. Without a reservation, we cannot guarantee a parking spot.",
+  "faqFiveTitle": "How much does airport parking cost?",
+  "faqFiveAnswer": "Parking for one day costs 700 RSD. From the second day, the day becomes cheaper. More detailed information and exact prices per day can be found",
+  "button": "Book your parking spot"
+},
+"pagePricing": {
+  "headline": "Airport parking Belgrade",
+  "headlineSpan": "prices",
+  "paragraphOne": "Price list for",
+  "paragraphLink": "airport parking",
+  "paragraphTwo": "Belgrade (Nikola Tesla airport). Prices start at 700rsd for the first day and get cheaper for each additional day. If you want to park for more than 30 days, we offer special discounts. In that case, contact us at",
+  "tableFootnote": "*For periods longer than 30 days, please contact us:"
+},
+"pageServices": {
+  "headline": "Our",
+  "headlineSpan": "services",
+  "paragraphOne": "In addition to airport parking services, we also provide other services related to it. Learn more about all of our services.",
+  "navHeadline": "Click on the title to go directly to the service.",
+  "navParking": "Airport Parking",
+  "navTransfer": "Airport transfer",
+  "navWash": "Car washing",
+  "parkHeadline": "Airport",
+  "parkHeadlineSpan": "Parking",
+  "parkParagraph": "Located near the Nikola Tesla Airport in Belgrade, our airport parking offers a daily rate from 250rsd. We have made it simple to reserve a parking spot with just a few clicks. Our enclosed parking lot is under video surveillance.",
+  "transferHeadline": "Airport",
+  "transferHeadlineSpan": "Transfer",
+  "transferParagraph": "As part of our parking services, we also offer a complimentary airport transfer. Once you have reserved your parking spot, your transfer is also reserved. We will drive you and your luggage to the airport immediately after you park your vehicle. Similarly, we will come to pick you up at the airport when you land and drive you back to the parking lot to retrieve your vehicle.",
+  "washHeadline": "Car",
+  "washHeadlineSpan": "washing",
+  "washParagraph": "If desired, you can also order an exterior car wash during the reservation process for your parking spot. In this case, our team will wash your vehicle and have it ready for you when you return from your trip.",
+  "button": "Book your parking spot"
+},
+"pageLocation": {
+  "headline": "Location ",
+  "headlineSpan": "of parking",
+  "paragraph": "Our parking is located just a 3-minute drive from the Belgrade airport.",
+  "addressHeadline": "Address",
+  "addresslink": "Open in Google Maps",
+  "faqHeadline": "Frequently asked",
+  "faqHeadlineSpan": "questions",
+  "faqOneTitle": "Where is the airport parking located?",
+  "faqOneAnswer": "Our parking is located just three minutes away from the airport, in Surcin. You can find more information, as well as a direct link to Google Maps,",
+  "faqOneLink": "here",
+  "faqTwoTitle": "How do I reserve a transfer?",
+  "faqTwoAnswer": "The transfer is included in the price and is considered a standard service as part of the airport parking. Before the day of parking, our team will contact you regarding details. In that conversation, depending on the time you need to be at the airport, we will schedule the parking time and the transfer time to and from the airport.",
+  "faqThreeTitle": "Can I change or cancel my parking reservation?",
+  "faqThreeAnswer": "Yes, you can change or cancel your parking reservation, but please do so at least 24 hours before the start of the reserved time.",
+  "faqFourTitle": "Is reserving a parking spot required?",
+  "faqFourAnswer": "Yes, without a reservation we cannot guarantee a parking spot.",
+  "faqFiveTitle": "Is the transfer included from the airport to the parking as well?",
+  "faqFiveAnswer": "Yes. Just as we drive you from the parking to the airport, we also drive you from the airport to the parking. During the phone conversation in which we define the parking time, we also define the flight landing time when you return. Then we will wait for you at the airport and drive you safely to your vehicle.",
+  "button": "Book your parking spot"
+},
+"pageFaq": {
+  "headline": "Frequently asked",
+  "headlineSpan": "questions",
+  "paragraph": "Here you will find answers to all frequently asked questions. If you can't find an answer, please",
+  "paragraphLink": "write us",
+  "button": "Book your parking spot",
+  "navHeadline": "Click on the title to go directly to the section.",
+  "parkLink": "Questions about parking",
+  "bookingLink": "Questions about booking",
+  "paymentLink": "Questions about payments",
+  "parkingHeadline": "Questions about",
+  "parkingHeadlineSpan": "parking",
+  "parkingOneTitle": "Where is the airport parking located?",
+  "parkingOneAnswer": "Our parking is located just three minutes away from the airport, in Surcin. You can find more information, as well as a direct link to Google Maps,",
+  "parkingOneAnswerLink": "here",
+  "parkingTwoTitle": "What is the latest time I can park my vehicle on the day of my reservation?",
+  "parkingTwoAnswer": "When you make a reservation, it is valid for the entire day. There is no specific parking time, as it depends on your flight time, etc. After making a reservation, and before the day of parking, our team will contact you. Then we will arrange the parking and transfer time.",
+  "parkingThreeTitle": "Can I change or cancel my parking reservation?",
+  "parkingThreeAnswer": "Yes, you can change or cancel your parking reservation, but please do so at least 24 hours before the start of the reserved time.",
+  "parkingFourTitle": "How much does airport parking cost?",
+  "parkingFourAnswer": "Parking for one day costs 700rsd. Starting from the second day, the price is cheaper. For more detailed information and exact prices per day, you can find it",
+  "bookingHeadline": "Questions about ",
+  "bookingHeadlineSpan": "booking",
+  "bookingOneTitle": "How do I reserve a parking spot?",
+  "bookingOneAnswer": "You can reserve a parking spot online. You just need to select the parking date and the date you will be picking up your vehicle. After that, you will see a button with the price. After clicking on that button, you will be directed to a form. Fill in the information and that's it. You can make a reservation",
+  "bookingOneAnswerLink": "here",
+  "bookingTwoTitle": "Can I make a reservation over the phone?",
+  "bookingTwoAnswer": "Unfortunately no. Carport only offers online reservations. However, we are available for any questions you may have. Please send us an email with your inquiry and we will respond as soon as possible. E-Mail: ",
+  "bookingThreeTitle": "What happens after I make a reservation?",
+  "bookingThreeAnswer": "After making a reservation, and before the day of parking, our team will contact you by phone for other details. In that conversation, you will arrange the parking time, transfer details, etc.",
+  "bookingFourTitle": "Is reserving a parking spot required?",
+  "bookingFourAnswer": "Yes. Without a reservation, we cannot guarantee a parking spot.",
+  "paymentHeadline": "Questions about",
+  "paymentHeadlineSpan": "payments",
+  "paymentOneTitle": "Where and what are the payment options?",
+  "paymentOneAnswer": "Payment is made on-site, at the time of parking or when picking up the vehicle. You can pay cash or with any common credit/debit cards.",
+  "paymentTwoTitle": "Are there any special discounts for regular customers?",
+  "paymentTwoAnswer": "For regular customers or for parking for more than 30 days, we have special prices. In that case, please send us an email with your inquiry and we will respond as soon as possible. E-mail:",
+  "paymentThreeTitle": "Is payment required at the time of reservation?",
+  "paymentThreeAnswer": "No. Payment is made at the parking, when you park your car."
+},
+"pageContact": {
+  "headline": "Contact and information about Carport",
+  "date": "Last update: 14.01.2023.",
+  "carportInfo": "Carport is an online platform that connects customers with companies that offer parking services. Therefore, it is responsible only for maintaining the technical and marketing needs of the platform. If you want to contact us, you can do so via email:",
+  "partnerHeadline": "Parking company",
+  "partnerParagraph": "For any questions regarding parking and the company, please contact our partner company directly.",
+  "companyName": "Company name:",
+  "companyAddress": "Address:",
+  "companyPhone": "Phone:"  
+},
+"pageTerms": {
+  "headline": "Terms of Service for Carport platform",
+  "date": "Last updated: January 22nd, 2023",
+  "introParagraph": "Carport is a platform that connects users with providers of parking spots near the Belgrade airport. By booking a parking spot, you accept the following terms:",
+  "firstTermHeadline": "Online booking, payment, and cancellation",
+  "firstTermListingOne": "Bookings are made online and payments are made in cash on the spot.", 
+  "firstTermListingTwo": "Cancellations can be made up to 24 hours before the start of the booked day. If the user does not cancel the booking within this time frame, they are obliged to pay the full price of the parking spot.",
+  "secondTermHeadline": "Responsibilities of users and parking spot providers",
+  "secondTermListingOne": "Carport is not responsible for the conditions of parking agreed upon between the user and the parking spot provider.",
+  "secondTermListingTwo": "Carport is not responsible for the behavior of the parking spot provider.",
+  "secondTermListingThree": "The user is obliged to follow through with the booking, otherwise they will be obliged to pay the full price of the parking spot if they did not cancel it in a timely manner.",
+  "secondTermListingFour": "Carport is not responsible in the event that the parking spot, although booked, is not available. The responsibility for this lies with the Carport partner. Contact information for the partner can be found",
+  "secondTermListingFourLink": "here",
+  "thirdTermHeadline": "User data",
+  "thirdTermListingOne": "Carport has the right to use the email address of the user who made the booking for sending newsletters and marketing communications.",
+  "thirdTermListingTwo": "Carport uses user data for analytical purposes, marketing (newsletters), and exclusively for the realization of bookings. Data is transferred to the appropriate partner for this purpose.",
+  "description": "Carport reserves the right to change the terms of service at any time without prior notice to the user."
+},
+  "pageBookingSuccess": {
+    "pageBookingSuccess": {
+      "yourParking": "Your parking is",
+      "reserved": "reserved",
+      "thankYou": "Thank you for your order. We have sent you an E-Mail with further instructions.",
+      "faq": "Frequently asked Questions.",
+      "contact": "Contact",
+      "message": "Our partner will contact you by phone before the reserved parking date. In case you have any questions, contact us.",
+      "location": "Location",
+      "parking": "The parking lot is located at:",
+      "open": "Open on"
+    }
+  },
+  "sharedMessages": {
+    "add": "Add",
+    "day": "day",
+    "days": "days",
+    "your": "Your",
+    "order": "order.",
+    "freeParking": "Free transfer from the parking lot to the airport",
+    "Date": "Date",
+    "date": "date",
+    "FROM": "FROM",
+    "TO": "TO",
+    "parking": "of parking",
+    "change": "Change the",
+    "personalData": "Personal data",
+    "fullName": "Full name",
+    "phone": "Phone",
+    "Price": "Price",
+    "reserveParking": "Reserve a parking space",
+    "pickup": "pickup",
+    "continue": "Proceed to payment",
+    "carWash": "exterior car wash",
+    "forJust": "for just"
+  },
+  "seo": {
+    "locations": {
+      "title": "Location",
+      "ogTitle": "Location",
+      "description": "Information about the location of parking at Belgrade Airport."
+    },
+    "pricing": {
+      "title": "Airport parking price list",
+      "ogTitle": "Airport parking price list",
+      "description": "Price list for private parking at Nikola Tesla Airport. Park for a maximum of 700rsd per day."
+    },
+    "faq": {
+      "title": "FAQ - Frequently Asked Questions",
+      "ogTitle": "FAQ - Frequently Asked Questions",
+      "description": "Find out everything you need to know about Carport parking."
+    },
+    "terms": {
+      "title": "Terms of Use",
+      "ogTitle": "Terms of Use",
+      "description": "Terms of use for the Carport platform."
+    },
+    "services": {
+      "title": "Services",
+      "ogTitle": "Services",
+      "description": "Learn more about all parking related services."
+    },
+    "home": {
+      "title": "Airport parking in Belgrade from 250RSD per day",
+      "ogTitle": "Airport parking in Belgrade from 250RSD per day",
+      "description": "Reserve private parking at the airport ✓ from 250rsd per day ✓ cheaper than taxi ✓ free transfer to and from the airport ✓ easy reservation.",
+      "schemaTitle": "Airport parking - Carport"
+    },
+    "contact": {
+      "title": "Contact us",
+      "ogTitle": "Contact us",
+      "description": "Contact information for the Carport platform and parking partners."
+    },
+    "blog": {
+      "title": "Blog",
+      "ogTitle": "Blog",
+      "description": "Our blog."
+    },
+    "bookingSuccess": {
+      "title": "Your parking spot is reserved",
+      "ogTitle": "Your parking spot is reserved",
+      "description": "Confirmation page for successful parking reservation."
+    }
+  }
+}
